@@ -1,0 +1,7 @@
+[2026-04-10T13:15:10Z] === AST ITERATION 1 START | repo=prettier/pretty-quick sha=50557591 ===
+[2026-04-10T13:15:10Z] [iter=1] PHASE START: ast repo=prettier/pretty-quick sha=50557591
+[2026-04-10T13:15:10Z] [iter=1] Building AST aggregate chunks
+[2026-04-10T13:20:04Z] [iter=1] AST chunks built count=1 triples=2912829
+[2026-04-10T13:20:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/50557591c65e5e1757f0899b48a4e510b6ee4d9d/.complete
+[2026-04-10T13:20:04Z] [iter=1] PHASE END: ast elapsed_s=294 elapsed_min=4.9
+[2026-04-10T13:20:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
